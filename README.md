@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Louay
 
 Machine Learning Engineer with practical experience in **NLP, generative models, speech enhancement, and computer vision**, working across the full ML lifecycle.
+📄 **[my CV (PDF)](./cv_Louay_Yahyaoui.pdf)**
 
 ---
 
